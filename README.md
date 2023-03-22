@@ -255,6 +255,10 @@ helm uninstall mywebapp-release
 ![](20230322133341.png)
 
 
+```bash
+minikube delete
+```
+
 See you in another project 👋
 
 
