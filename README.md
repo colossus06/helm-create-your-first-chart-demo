@@ -1,5 +1,8 @@
 # Helm-Chart-Basics-Getting-Started-Hands-on
 
+![image](https://user-images.githubusercontent.com/96833570/226880995-f348d665-68e4-4870-ba10-3f22b549b71a.png)
+
+
 Helm is the package manager for Kubernetes. It uses charts that define a set of Kubernetes resources to deploy.
 
 In his repo I will show you how to:
